@@ -1,4 +1,6 @@
 # s1-2021-ihm
+# Livrable parties Économie et Documents numérique
+[écran prototype](doc/groupe_KORBI_TAGUIA_VAILLON_PAULIN.pdf)
 
 Notre groupe est composé de MAXENCE PAULIN, SOFIANE VAILLON, AYOUB TAGUIA et du référent ARGJENTIN KORBI. 
 
