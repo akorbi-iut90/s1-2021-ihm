@@ -48,6 +48,7 @@
 
 #home .banner a{
    border-radius: 20px;
+   margin: 0 10px 0 0;
    padding: 0.7em 2em;
    color: white;
    box-shadow: 0px 0px 6px #1cafc1;
