@@ -4,7 +4,7 @@
 
 Notre groupe est composé de MAXENCE PAULIN, SOFIANE VAILLON, AYOUB TAGUIA et du référent ARGJENTIN KORBI. 
 
-Nous avons choisi l'entreprise Exakis Nelite
+Nous avons choisi l'entreprise Exakis Nelite.
 
 
 # écran de zoning :
@@ -19,16 +19,13 @@ Argjentin s'est chargé de faire l'écran de zoning.
 
 # Auteurs des pages (sections)
 
-Nous avons utilisé des sections afin que notre site tienne sur une seule page, ce qui rend la navigations beaucou plus aisé. 
+Nous avons utilisé des sections afin que notre site tienne sur une seule page, ce qui rend la navigation beaucoup plus aisée. 
 
 Ainsi :
-Argjentin s'est chargé de faire la page d'acceuil
-Sofiance a réalisé la section à-propos
-Ayoub s'est chargé de faire la section des services
-Maxence a fait la dernière section qui présente la fusion de nelite et exakis
+Argjentin s'est chargé de faire la page d'acceuil, Sofiane a réalisé la section à-propos, Ayoub s'est chargé de faire la section des services et Maxence a fait la dernière section qui présente la fusion de nelite et exakis.
 
 En ce qui concerne le menu et le pied de page, nous les avons fait en commun. 
-Nous avons fait de même sur les couleurs présentes et l'aspect général du site. 
+Nous avons fait de même sur l'aspect général du site. 
 
 # Validation HTML W3C
 ![Validation HTML](doc/html-check.png)
