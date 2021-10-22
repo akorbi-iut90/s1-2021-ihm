@@ -12,7 +12,7 @@ Nous avons choisi l'entreprise Exakis Nelite.
 Nous avons choisi cet affichage car il est facile avec les flexbox de la réaliser. 
 Ceci explique en grande partie notre choix mais aussi la majorité des sites modernes utilisent ce genre d'affichage.
 Argjentin s'est chargé de faire l'écran de zoning.
-![écran de zoning](doc/ecran_zoning.png)
+![écran de zoning](doc/zoning_ecran.png)
 
 # écran prototype : 
 ![écran prototype](doc/ecran_prototype.png)
